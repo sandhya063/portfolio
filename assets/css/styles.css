@@ -160,8 +160,34 @@ display: flex;
 
 }
 
-
+.hero-banner img:hover {
+    color: aquamarine;
+}
 
 
 /* Ending- header */
 
+
+
+
+/*Start about me section */
+
+.about-me-row {
+padding: 130px 0;
+
+}
+
+.about-me-container {
+display: flex;
+gap: 50px;
+}
+
+
+
+
+
+
+
+
+
+/*End about me section */
